@@ -1,0 +1,5 @@
+print("My name is Xaydarov Xabibullo.")
+print("I am from Namangan.")
+print("I like reading and sport.")
+print("As many Uzbeks I like palov.")
+print("I have never seen ocean.")
